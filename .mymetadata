@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="wuhuiqing"
+  id="myeclipse.1557644877263"
+  context-root="/wuhuiqing"
+  j2ee-spec="5.0"
+  archive="wuhuiqing.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
